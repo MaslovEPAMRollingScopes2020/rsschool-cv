@@ -1,0 +1,23 @@
+body{
+  width: 100%;
+}
+.main-wrapper{
+  box-sizing: border-box;
+  display: block;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.resume-photo{
+  box-sizing: border-box;
+  display: inline-block;
+  width: 30%;
+}
+.resume-text{
+  font-size: 0;
+  box-sizing: border-box;
+  display: inline-block;
+  width: 68%;
+}
+.resume-text__item{
+  font-size: 18px;
+}
